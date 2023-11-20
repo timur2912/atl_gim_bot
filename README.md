@@ -1,7 +1,5 @@
 # atl_gim_bot
 
-##Описание 
-
 atl_gim_bot - бот, который работает Telegram https://t.me/atl_gim_bot
 
 На специализации атлетической гимнастики существует анонимная Google-таблица, в которой преподаватель проставляет посещений для студентов МФТИ  https://docs.google.com/spreadsheets/d/1gGOlwlh6J4sbkC9ZwWkyVEjl0ukcOOCN8CZBtlFWxn4/edit?usp=sharing
@@ -11,9 +9,9 @@ atl_gim_bot - бот, который работает Telegram https://t.me/atl_
 Данный бот позволяет cтуденту один раз ввести номер своего электронного студенческого билета и быстро получать информации о своих посещениях  занятий физкультуры в любимом мессенджере.
 
 ## Установка и запуск бота
-Перед запуском проекта нужно установить следующие библлиотеки:
-  asyncio: pip install asyncio
-  gspread: pip install gspread
+Перед запуском проекта нужно установить следующие библлиотеки:\n
+  asyncio: pip install asyncio\n
+  gspread: pip install gspread\n
 
 В файле main необходимо указать данные сервисного аккаунта Google и token для бота
 После этого выполните python3 main.py
