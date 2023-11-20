@@ -11,8 +11,8 @@ atl_gim_bot - бот, который работает Telegram https://t.me/atl_
 ## Установка и запуск бота
 Перед запуском проекта нужно установить следующие библлиотеки:
 
--asyncio: pip install asyncio
--gspread: pip install gspread
+- asyncio: pip install asyncio
+- gspread: pip install gspread
 
 В файле main необходимо указать данные сервисного аккаунта Google и token для бота
 После этого выполните python3 main.py
