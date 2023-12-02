@@ -17,7 +17,7 @@ atl_gim_bot - бот, который работает Telegram https://t.me/atl_
 
 В файле main необходимо указать данные сервисного аккаунта Google и token для бота.
 
-После этого выполните python3 main.py
+После этого выполните python3 requirements.py
 
 ## Особености реализации
 
